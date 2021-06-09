@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091199400635",
+    "project_id": "bangkit-ca3ed",
+    "storage_bucket": "bangkit-ca3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091199400635:android:b3fa9dfc3ef5411553479e",
+        "android_client_info": {
+          "package_name": "com.bangkit.capstonebangkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091199400635-ra5uv7t7eotu2ch8chucjuv3esljqi1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.capstonebangkit",
+            "certificate_hash": "a2e710ebf10192b4e05fa8aed77916d31e10d088"
+          }
+        },
+        {
+          "client_id": "1091199400635-1ra58eq6fnaeq5v8b8qaoha0ts1h1ukq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbwX0JtbjpmdjhI9V4sjYCPeXcDczHogk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091199400635-1ra58eq6fnaeq5v8b8qaoha0ts1h1ukq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
